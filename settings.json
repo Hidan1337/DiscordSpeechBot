@@ -1,6 +1,4 @@
 {
     "discord_token": "DISCORD_TOK",
-    "spotify_token_id": "SPOTIFY_TOKEN_ID",
-    "spotify_token_secret": "SPOTIFY_TOKEN_SECRET",
     "wit_ai_token": "WITAPIKEY"
 }
